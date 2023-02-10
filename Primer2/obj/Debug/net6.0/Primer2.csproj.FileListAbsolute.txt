@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\bin\Debug\net6.0\Primer2.exe
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\bin\Debug\net6.0\Primer2.deps.json
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\bin\Debug\net6.0\Primer2.runtimeconfig.json
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\bin\Debug\net6.0\Primer2.dll
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\bin\Debug\net6.0\Primer2.pdb
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\obj\Debug\net6.0\Primer2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\obj\Debug\net6.0\Primer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\obj\Debug\net6.0\Primer2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\obj\Debug\net6.0\Primer2.AssemblyInfo.cs
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\obj\Debug\net6.0\Primer2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\obj\Debug\net6.0\Primer2.dll
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\obj\Debug\net6.0\refint\Primer2.dll
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\obj\Debug\net6.0\Primer2.pdb
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\obj\Debug\net6.0\Primer2.genruntimeconfig.cache
+C:\Users\User\Desktop\Лекции\C# 1\Primer2\obj\Debug\net6.0\ref\Primer2.dll
